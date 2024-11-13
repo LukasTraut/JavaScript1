@@ -1,0 +1,42 @@
+body {
+background-color: black
+
+}
+h1, h2, a {
+    color: white;
+}
+div {
+    display: inline-block;
+    border: 1px white solid;
+    padding: 10px;
+    border-radius: 15px;
+}
+div.hover {
+    border-color: red;
+}
+a:hover {
+    
+    color: red;
+} 
+.antrieb{
+margin-top: 5px;
+margin-bottom: 5px;
+margin-right: 10px;
+}
+.holodeck{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 50px;
+    }
+
+    .hitzeschild{
+        margin-top: 5px;
+        margin-bottom: 5px;
+        margin-right: 100px;
+        }
+        .transporter{
+            margin-top: 5px;
+            margin-bottom: 5px;
+            margin-right: 100px;
+            }
+div{display: inline-block;}
